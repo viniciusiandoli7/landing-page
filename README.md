@@ -118,7 +118,7 @@ O site é totalmente responsivo com breakpoints:
 
 ## Contato
 
-- **WhatsApp** — [(11) 94367-2342](https://wa.me/5511943672342)
+- **WhatsApp** — [(11) 93084-1297](https://wa.me/5511930841297?text=Ol%C3%A1%20Vin%C3%ADcius%2C%20vi%20seu%20portf%C3%B3lio%20e%20quero%20um%20or%C3%A7amento)
 - **E-mail** — [viniciusiandoli7@gmail.com](mailto:viniciusiandoli7@gmail.com)
 - **LinkedIn** — [vinicius-iandoli-diogo](https://www.linkedin.com/in/vinicius-iandoli-diogo/)
 - **GitHub** — [viniciusiandoli7](https://github.com/viniciusiandoli7)
